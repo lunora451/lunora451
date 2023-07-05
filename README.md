@@ -10,7 +10,10 @@ My name is Jordan and I'm a searching for web deb jobs, i to work with JavaScrip
 
 <table>
   <tbody><tr>
-    
+    <td align="center" height="108" width="108">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667"><img src="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667" width="48" height="48" alt="TypeScript" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
+      <br><strong>TypeScript</strong>
+    </td>
     
     <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/077997d77bfa74b144c9e286e65143b4edc547dc948098491264bb2dde282d6b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/077997d77bfa74b144c9e286e65143b4edc547dc948098491264bb2dde282d6b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7675656a732f7675656a732d6f726967696e616c2e737667" width="48" height="48" alt="VueJS" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width: 100%;"></a>
